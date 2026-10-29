@@ -1,0 +1,11 @@
+patient_id,age,procedure,los_days,readmitted_30d
+1001,67,PCI,3,0
+1002,72,PCI,5,1
+1003,59,Diagnostic Cath,1,0
+1004,81,PCI,7,1
+1005,64,Diagnostic Cath,2,0
+1006,70,PCI,4,0
+1007,55,Diagnostic Cath,1,0
+1008,76,PCI,6,1
+1009,68,PCI,,0
+1010,62,Diagnostic Cath,2,0
